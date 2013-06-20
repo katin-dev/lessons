@@ -4,3 +4,7 @@ $a = 2;
 $a = $a * 2;
 
 /* вот мой коммент */
+
+function hello() {
+	return "Hello, World!";
+}
